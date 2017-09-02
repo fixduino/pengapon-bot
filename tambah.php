@@ -29,8 +29,8 @@
 	
 
 
-$token_bot="435941597:AAEyUqKiYxoF-n3JAEUQ6izSDu76RUaeuro"; //216353971:AAHyd_ZKzWFAUeSGI2fdkQJfdhmLZYLG0G0
-$data['chat_id']=-1001082866479; //mico-1001078936434  chan-1001132052378 taufik307734416 grupanyar-1001082866479
+$token_bot="435941597:AAEyUqKiYxoF-n3JAEUQ6izSDuxxxx"; 
+$data['chat_id']=-100108286xxxx;  
 
 $data['text']=$ids1.":".$pesan1; 
 

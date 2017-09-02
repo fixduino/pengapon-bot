@@ -1,11 +1,11 @@
-<?php //https://api.telegram.org/bot435941597:AAEyUqKiYxoF-n3JAEUQ6izSDu76RUaeuro/sendMessage?chat_id=-1001082866479&text=haiii
+<?php //https://api.telegram.org/bot435941597:AAEyUqKiYxoF-n3JAEUQ6ixxxxx/sendMessage?chat_id=-10010828xxx&text=haiii
 
   $ids2="pump-01";
 	$pesan2="OFF";
 	//$data=$ids2
-$botToken="435941597:AAEyUqKiYxoF-n3JAEUQ6izSDu76RUaeuro";
+$botToken="435941597:AAEyUqKiYxoF-n3JAEUQ6izxxxx";
 $website="https://api.telegram.org/bot".$botToken;
-$chatId=-1001082866479;  //Receiver Chat Id 
+$chatId=-10010828xxxx;  //Receiver Chat Id 
 $params=[
     'chat_id'=>$chatId,
     'text'=>$ids2.':'.$pesan2,

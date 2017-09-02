@@ -1,12 +1,12 @@
-<?php //https://api.telegram.org/bot435941597:AAEyUqKiYxoF-n3JAEUQ6izSDu76RUaeuro/sendMessage?chat_id=-1001082866479&text=haiii
+<?php //https://api.telegram.org/bot435941597:AAEyUqKiYxoF-n3JAEUQxxxx/sendMessage?chat_id=-10010xxx&text=haiii
 
  if(isset($_GET['ids'])and($_GET['pesan'])) {
 	 $ids2=$_GET['ids'];
 	$pesan2=$_GET['pesan'];
 	//$data=$ids2
-$botToken="435941597:AAEyUqKiYxoF-n3JAEUQ6izSDu76RUaeuro";
+$botToken="435941597:AAEyUqKiYxoF-n3JAEUQ6izSDxxx";
 $website="https://api.telegram.org/bot".$botToken;
-$chatId=-1001082866479;  //Receiver Chat Id 
+$chatId=-10010828xxxx;  //Receiver Chat Id 
 $params=[
     'chat_id'=>$chatId,
     'text'=>$ids2.':'.$pesan2,

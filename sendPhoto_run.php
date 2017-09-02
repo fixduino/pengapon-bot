@@ -1,10 +1,10 @@
 <?php
 
-//https://api.telegram.org/bot435941597:AAEyUqKiYxoF-n3JAEUQ6izSDu76RUaeuro/sendMessage?telegramchatid=-1001082866479&text=hello");
+//https://api.telegram.org/bot435941597:AAEyUqKiYxoF-n3JAEUQ6izSDu76xxxx/sendMessage?telegramchatid=-10010xxxx&text=hello");
 
 
-$telegrambot='435941597:AAEyUqKiYxoF-n3JAEUQ6izSDu76RUaeuro';
-$telegramchatid=-1001082866479;
+$telegrambot='435941597:AAEyUqKiYxoF-n3JAEUQ6ixxxx';
+$telegramchatid=-1001082xxxx;
 $bot_url="https://api.telegram.org/bot$telegrambot/";
 $url=$bot_url."sendPhoto?telegramchatid=".$telegramchatid;
 
